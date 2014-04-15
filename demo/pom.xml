@@ -20,8 +20,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.android.support</groupId>
-            <artifactId>support-v13</artifactId>
+            <groupId>android.support</groupId>
+            <artifactId>compatibility-v13</artifactId>
         </dependency>
 
         <!-- Library -->
